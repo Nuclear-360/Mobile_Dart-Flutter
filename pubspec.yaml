@@ -1,0 +1,9 @@
+name: nuclear_360
+description: >-
+  Nuclear 360 — plataforma gamificada para aproximar a sociedade da
+  tecnologia nuclear. Challenge FIAP em parceria com a AMAZUL.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ^3.3.0
