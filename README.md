@@ -98,4 +98,4 @@ dart run --define=API_URL=http://SEU-IP:8080 bin/main.dart
 
 ## 🎥 Vídeo demonstrativo
 
-YouTube (não listado): _a preencher_
+YouTube (não listado): https://youtu.be/PbcK9irvbVY
