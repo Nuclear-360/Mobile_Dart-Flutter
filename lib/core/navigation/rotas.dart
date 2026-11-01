@@ -7,6 +7,7 @@ abstract final class Rotas {
   static const cadastro = '/cadastro';
   static const mapa = '/mapa';
   static const distrito = '/distrito';
+  static const quiz = '/quiz';
   static const verdadeOuRadioativo = '/verdade-ou-radioativo';
   static const resultado = '/resultado';
   static const medidorBananas = '/medidor-bananas';
